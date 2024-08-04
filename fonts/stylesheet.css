@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Exo 2.0';
+    src: url('Exo20-Black.eot');
+    src: url('Exo20-Black.eot?#iefix') format('embedded-opentype'),
+        url('Exo20-Black.woff2') format('woff2'),
+        url('Exo20-Black.woff') format('woff'),
+        url('Exo20-Black.ttf') format('truetype'),
+        url('Exo20-Black.svg#Exo2.0-Black') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+

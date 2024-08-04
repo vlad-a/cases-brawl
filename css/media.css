@@ -1,0 +1,2375 @@
+/* /footer */
+@media screen and (max-width: 1920px) {
+  header {
+    padding: 100px 0 420px;
+  }
+  .contract__back {
+    display: none;
+  }
+  .case-list-item__img img {
+    width: 100%;
+  }
+  .footer-info__item {
+    width: 21%;
+  }
+  .footer-info {
+    right: 55px;
+    left: 55px;
+  }
+  .footer-copy__left {
+    max-width: 652px;
+    line-height: 1.2;
+  }
+  .crash__images img:nth-child(3) {
+    right: -5px;
+  }
+  .upgrade-main__center img {
+    width: 780px;
+  }
+  .uml__img img {
+    width: 380px;
+  }
+  .uml__img::before,
+  .uml__img::after {
+    width: 207px;
+    height: 199px;
+  }
+  .upgrade-main-content__img img {
+    width: 200px;
+  }
+  .upgrade-main__content {
+    max-width: 280px;
+  }
+  .upgrade-main__content {
+    bottom: -50px;
+  }
+  .umct__left {
+    top: 74px;
+    left: 75px;
+  }
+  .umct__right {
+    top: 74px;
+    right: 75px;
+  }
+  .upgrade__choise {
+    gap: 65px;
+  }
+  .drum-content__list {
+    grid-template-columns: repeat(5, calc(20% - 20px));
+  }
+  .drum-content-word__letter {
+    font-size: 82px;
+    width: 130px;
+    height: 130px;
+  }
+  .drum-content__text {
+    margin-bottom: 65px;
+  }
+  .other-pages__wrapper.other-pages__wrapper--drum {
+    background-size: 2200px;
+  }
+}
+@media screen and (max-width: 1820px) {
+}
+@media screen and (max-width: 1700px) {
+  .uml__img img {
+    width: 330px;
+  }
+  .upgrade-main__center img {
+    width: 740px;
+  }
+  .upgrade-main-content__img img {
+    width: 177px;
+  }
+  .upgrade-main__content {
+    max-width: 265px;
+  }
+  .upgrade-main__content {
+    bottom: -43px;
+    gap: 74px;
+  }
+  .uml__img::after {
+    right: -64px;
+  }
+  .upgrade-choise-right__list {
+    grid-template-columns: repeat(3, calc(33.3% - 15px));
+  }
+  .top-list-item__content img {
+    max-width: 90px;
+  }
+  .header-top {
+    padding: 42px 0px 26px;
+  }
+  .header-top__left {
+    gap: 50px;
+  }
+  .sign__btn {
+    padding: 12px 21px;
+  }
+  .header-center {
+    padding: 0 25px;
+  }
+  .header-center-list__item {
+    gap: 15px;
+  }
+  .header-center-list {
+    gap: 13px;
+  }
+  .header-start__title img {
+    width: 900px;
+  }
+  .header-start-btn__content {
+    font-size: 27px;
+  }
+  header {
+    padding: 100px 0 360px;
+  }
+  .section-top-content__title {
+    font-size: 34px;
+  }
+  .section-top-content__subtitle {
+    font-size: 18px;
+  }
+  .section-top img {
+    max-width: 1865px;
+  }
+  .case-list-item-btn__back img {
+    width: 109px;
+  }
+  .footer-info__item {
+    width: 22%;
+  }
+  .footer-info-item-text__num {
+    font-size: 40px;
+  }
+  .footer-info-item-text__text {
+    font-size: 16px;
+    line-height: 18px;
+  }
+  .footer-info-item__content {
+    gap: 17px;
+  }
+  .footer-info__item:nth-child(3) .footer-info-item__icon img {
+    width: 60px;
+  }
+  .footer-info-item__icon img {
+    width: 70px;
+  }
+  .footer-man {
+    right: 340px;
+  }
+  .footer-man img {
+    width: 390px;
+  }
+  .footer-copy__left {
+    max-width: 613px;
+  }
+  .header-inner {
+    padding: 100px 0 70px;
+  }
+  .crash-top__title {
+    font-size: 35px;
+  }
+  .crash__top {
+    margin-bottom: 70px;
+  }
+  .ccl-info-item__back img {
+    width: 100%;
+  }
+  .ccl-info__bet .ccl-info-item__text {
+    font-size: 21px;
+  }
+  .crash__content {
+    justify-content: space-between;
+  }
+  .crash-content__up {
+    margin-left: 30px;
+  }
+  .ccl-list-top__item:first-child {
+    width: 40%;
+  }
+  .ccl-list-players__avatar {
+    width: 40%;
+  }
+  .ccu-bet__back img {
+    width: 1000px;
+  }
+  .ccu-bet-params__top--left {
+    width: 257px;
+  }
+  .ccu-bet-params__top {
+    height: 123px;
+  }
+  .ccu-bet-params__btn {
+    width: 235px;
+    height: 63px;
+    font-size: 20px;
+  }
+  .ccu-bet-params__bottom {
+    margin: 8px auto 0;
+  }
+  .ccu-x-up__text {
+    font-size: 64px;
+  }
+  .ccl-info__bet .ccl-info-item__text span {
+    font-size: 23px;
+  }
+  .ccllpa__text {
+    font-size: 16px;
+  }
+  .ccl-list-players--other {
+    width: 14.66%;
+  }
+  .ccl-list-players__x,
+  .ccl-list-players__bet,
+  .ccl-list-players__win {
+    font-size: 16px;
+  }
+  .crash-content__up {
+    width: 70%;
+  }
+  .other-pages__wrapper {
+    margin-bottom: -180px;
+  }
+  .quests .crash__top {
+    position: relative;
+  }
+  .quests-top__conditions {
+    position: absolute;
+    left: 0;
+    top: 85px;
+  }
+  .quests__countdown {
+    position: absolute;
+    right: 0;
+    top: 85px;
+  }
+  .slick-track {
+    display: flex;
+  }
+  .slick-arrow {
+    font-size: 0;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 30px;
+    transition: 250ms ease all;
+    height: 30px;
+    background: linear-gradient(to top, #c642a6, #f18d72);
+    border-radius: 30px;
+  }
+  .slick-arrow.slick-prev {
+    left: 0px;
+  }
+  .slick-arrow.slick-next {
+    right: 0;
+  }
+  .quests-list__slider {
+    position: relative;
+    padding: 0 55px;
+  }
+  .slick-list {
+    overflow: hidden;
+  }
+  .slick-arrow::after {
+    content: "";
+    width: 10px;
+    height: 10px;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%) rotate(-90deg);
+    background-size: cover;
+    position: absolute;
+    background: url(../img/angle-down-upgrade.png) no-repeat center center;
+  }
+  .slick-arrow:hover {
+    transform: translateY(-50%) scale(1.1);
+    filter: brightness(1.1);
+  }
+  .slick-slide > div {
+    padding: 0 20px;
+  }
+  .slick-arrow.slick-prev::after {
+    transform: translate(-50%, -50%) rotate(90deg);
+  }
+  .slick-arrow::after {
+    content: "";
+    width: 10px;
+    height: 10px;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%) rotate(-90deg);
+    background-size: cover;
+    position: absolute;
+    background: url(../img/angle-down-upgrade.png) no-repeat center center;
+  }
+  .quests-top__conditions {
+    gap: 55px;
+  }
+  .quests-list-slider__item {
+    padding: 25px;
+  }
+  .qlsi__count {
+    margin-bottom: 22px;
+  }
+  .qlsi__text {
+    margin-bottom: 30px;
+  }
+  .quests__players {
+    margin-top: 84px;
+  }
+  #countdown ul li span {
+    font-size: 35px;
+  }
+  #countdown ul li {
+    height: 78px;
+    width: 78px;
+  }
+  .quests-players-list__box {
+    height: 100px;
+  }
+  .quests-list__img img {
+    width: 1600px;
+  }
+}
+@media screen and (max-width: 1650px) {
+  .case__list {
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  }
+}
+@media screen and (max-width: 1600px) {
+  .ccu-bet__back img {
+    width: 925px;
+  }
+  .ccu-bet-params__top {
+    padding: 0 55px;
+  }
+  .ccu-bet-params__top--left {
+    width: 255px;
+  }
+  .ccu-bet-params__top {
+    height: 114px;
+  }
+  .ccu-bet-params__btn {
+    width: 218px;
+    height: 56px;
+    font-size: 18px;
+  }
+  .ccu-bet-params-bottom__text {
+    font-size: 15px;
+  }
+  .plic__title {
+    margin-top: 96px;
+  }
+  .preview__list {
+    row-gap: 70px;
+  }
+  .plic__text {
+    padding: 0 20px;
+  }
+  .preview {
+    padding-bottom: 233px;
+  }
+  .preview__title {
+    margin-bottom: 60px;
+  }
+  .preview-inner__info {
+    padding-right: 0;
+  }
+}
+
+@media screen and (max-width: 1500px) {
+  .header-center-list__item {
+    overflow: hidden;
+    width: 49px;
+    transition: width 0.3s;
+  }
+  .drum-step-2 {
+    padding-top: 30px;
+  }
+  .drum-step-2__img img {
+    width: 350px;
+  }
+  .drum-step-2__choise {
+    margin-top: 100px;
+    margin-bottom: 140px;
+    background: #354ab15e;
+    padding: 30px;
+    border-radius: 20px;
+    backdrop-filter: blur(18px);
+  }
+  .drum-step-2__choise .ccu-bet-params__top--center {
+    width: fit-content;
+  }
+  .hcli__icon {
+    flex: 0 0 auto;
+  }
+  .header-center__back img {
+    height: 110px;
+  }
+  .header-center {
+    height: 97px;
+  }
+  .header-start__title img {
+    width: 797px;
+  }
+  .header-top {
+    padding: 37px 0px 24px;
+  }
+  .top-list-item {
+    width: 155px;
+    height: 98px;
+  }
+  .header-start__title {
+    margin-top: 70px;
+  }
+  .header-start__btn {
+    margin-top: 20px;
+  }
+  header {
+    padding: 100px 0 300px;
+  }
+
+  .section-top-content__title {
+    font-size: 30px;
+    margin-bottom: 12px;
+  }
+  .section-top__content {
+    top: 115px;
+  }
+  .section-top img {
+    min-width: 1755px;
+  }
+  .cases-list {
+    padding: 100px 0 120px;
+  }
+  .section-top {
+    top: -160px;
+  }
+  .cases-list.hero-packages {
+    padding-bottom: 150px;
+  }
+  .footer-info-item__icon img {
+    width: 60px;
+  }
+  .footer-info-item-text__num {
+    font-size: 30px;
+    text-align: center;
+    line-height: 30px;
+  }
+  .footer-info__item:nth-child(3) .footer-info-item__icon img {
+    width: 50px;
+  }
+  .footer-info__item {
+    height: 130px;
+  }
+  .other-pages__wrapper.other-pages__wrapper--drum {
+    background-size: 2050px;
+  }
+  .footer-info {
+    top: -60px;
+  }
+  .footer-copy__left {
+    max-width: 427px;
+  }
+  .footer-info-item-text__text {
+    font-size: 16px;
+    line-height: 18px;
+    width: 120px;
+    text-align: center;
+  }
+  .crash__content {
+    flex-direction: column-reverse;
+  }
+  .crash-content__up {
+    width: 100%;
+    margin-left: 0;
+  }
+  .crash-content__left {
+    width: 100%;
+  }
+  .crash__content {
+    gap: 140px;
+  }
+  .ccu_x {
+    margin: 0;
+    margin-top: 115px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .crash-content__up {
+    height: 490px;
+  }
+  .ccu__bet {
+    margin: 85px auto 0;
+  }
+  .ccl__info {
+    justify-content: center;
+  }
+  .ccl-list__players {
+    max-height: 432px;
+  }
+  .ccu-x__text {
+    left: -27px;
+  }
+  .ccl-list-top__item:first-child,
+  .ccl-list-players__avatar {
+    width: 50%;
+  }
+  .ccl-list-players__x,
+  .ccl-list-players__bet,
+  .ccl-list-players__win,
+  .ccl-list-top__item,
+  .ccl-list-players--other {
+    width: 16.66%;
+  }
+  .crash__images img:nth-child(2) {
+    position: absolute;
+    top: 198px;
+    right: 256px;
+    width: 500px;
+  }
+  .plic__title {
+    margin-top: 80px;
+  }
+  .preview__list {
+    justify-content: center;
+  }
+  .preview__list {
+    gap: 25px;
+    row-gap: 54px;
+    grid-template-columns: repeat(3, calc(33.3% - 30px));
+  }
+  .bonus__list {
+    gap: 44px;
+  }
+  .bonus-item__title {
+    font-size: 25px;
+    line-height: 32px;
+    margin-bottom: 30px;
+  }
+  .bonus-item__text {
+    margin-bottom: 30px;
+  }
+  .bonus-item__img img {
+    width: 80%;
+  }
+  .bonus__item {
+    padding: 35px 62px 35px 35px;
+  }
+  .bonus-item__img {
+    display: flex;
+    justify-content: flex-end;
+  }
+  .bonus__item {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  .faq-list-upgrade__title {
+    font-size: 25px;
+  }
+  .uml__img img {
+    width: 300px;
+  }
+  .upgrade-main__center img {
+    width: 610px;
+  }
+  .upgrade__main {
+    margin-top: -34px;
+  }
+  .upgrade__choise {
+    margin-top: -100px;
+  }
+  .upgrade-main-center__content {
+    bottom: 171px;
+  }
+  .upgrade-main-center__content .ccu-bet-params__btn {
+    font-size: 24px;
+    height: 67px;
+    width: 219px;
+  }
+  .umct__left {
+    top: 50px;
+    left: 26px;
+  }
+  .umct__right {
+    top: 50px;
+    right: 26px;
+  }
+  .upgrade-main-content__img img {
+    width: 150px;
+  }
+  .upgrade-main__content {
+    max-width: 234px;
+  }
+  .upgrade__choise {
+    gap: 35px;
+  }
+  .quests-top__conditions,
+  .quests__countdown {
+    top: 120px;
+  }
+  .qtc__left img {
+    width: 35px;
+  }
+  .qtc-left-text__title {
+    font-size: 26px;
+  }
+  .quests-top__conditions {
+    padding: 20px;
+  }
+  #countdown ul li span {
+    font-size: 31px;
+  }
+  #countdown ul li {
+    font-size: 13px;
+  }
+  .quests-countdown__text {
+    margin-top: 12px;
+  }
+  .quests-players-list__box {
+    height: 90px;
+  }
+  .quests-player-top__item:first-child,
+  .quests-players-list__item:first-child {
+    width: 90px;
+  }
+  .quests-player-top__item:last-child,
+  .quests-players-list__item:last-child {
+    min-width: 190px;
+
+    max-width: 190px;
+  }
+}
+@media screen and (max-width: 1400px) {
+  .case__list {
+    grid-template-columns: repeat(auto-fit, minmax(219px, 1fr));
+    grid-gap: clamp(24px, 2.875vw, 20px);
+  }
+  .case-list-spin__main img {
+    width: 450px;
+  }
+  .clsoi__skin img {
+    width: 105px;
+  }
+  .clsoi-text__title {
+    margin-top: 30px;
+  }
+  .case .crash__top {
+    margin-bottom: 40px;
+  }
+  .case-list__items {
+    row-gap: 25px;
+    grid-template-columns: repeat(6, calc(16.66% - 17px));
+  }
+  .cil__bottom {
+    background: transparent;
+    padding: 0;
+  }
+  .tab-item__list {
+    grid-template-columns: repeat(6, calc(16.66% - 20px));
+  }
+  .tab-text {
+    text-align: center;
+  }
+  .contract-create__back img {
+    width: 1120px;
+  }
+  .contract__create .ccu-bet-params__btn {
+    width: 277px;
+    height: 57px;
+    font-size: 20px;
+    margin: 40px auto 0;
+  }
+  .contract__create {
+    width: fit-content;
+    margin: -14px auto 76px;
+  }
+  .contract-create-content__top {
+    font-size: 15px;
+    margin-top: 39px;
+  }
+  .contract-create-content__count {
+    width: 875px;
+    margin: 28px auto 0;
+  }
+  .cccl__item {
+    position: relative;
+  }
+  .cccl__item::after {
+    right: -42px;
+  }
+  .contract-create-content__list {
+    width: 875px;
+  }
+  .contract-create-content-count__back {
+    height: 28px;
+  }
+  .contract-create-content-count__num {
+    font-size: 15px;
+  }
+}
+@media screen and (max-width: 1300px) {
+  .hcsi__back img {
+    width: 50px;
+  }
+  .case-list__items {
+    row-gap: 25px;
+    grid-template-columns: repeat(5, calc(20% - 17px));
+  }
+  .other-pages__wrapper.other-pages__wrapper--drum {
+    background-size: 1838px;
+  }
+  .drum-content__list {
+    grid-template-columns: repeat(4, calc(25% - 20px));
+    padding: 0 20px;
+  }
+  .hcsi__icon img {
+    width: 18px;
+  }
+  .hcli__icon {
+    width: 33px;
+    height: 33px;
+  }
+  .hcli__icon img {
+    width: 18px;
+  }
+  .header-center-list__item {
+    padding: 6px;
+  }
+  .header-center-list__item {
+    width: 45px;
+    padding-right: 16px;
+  }
+  .header-start-btn__content {
+    font-size: 24px;
+  }
+  header {
+    padding: 100px 0 267px;
+  }
+  .footer-man img {
+    width: 298px;
+  }
+  .footer-man {
+    right: 287px;
+  }
+  .footer-copy__right {
+    font-size: 16px;
+    gap: 12px;
+    padding: 16px 18px 18px;
+  }
+  .fcm-left__list {
+    gap: 17px;
+  }
+  .fcm__right {
+    gap: 40px;
+  }
+  .case__list {
+    grid-template-columns: repeat(auto-fit, minmax(191px, 1fr));
+  }
+  .case-list-item-btn__price {
+    font-size: 19px;
+  }
+  .case-list-item-btn__back img {
+    width: 100px;
+  }
+  .uml__img img {
+    width: 275px;
+  }
+  .upgrade-main__center img {
+    width: 560px;
+  }
+  .umct__left {
+    top: 39px;
+    left: 21px;
+  }
+  .umct__top {
+    font-size: 16px;
+  }
+  .umct__bottom {
+    font-size: 15px;
+  }
+  .upgrade-main-center__content .ccu-bet-params__btn {
+    font-size: 23px;
+    height: 61px;
+    width: 210px;
+  }
+  .upgrade-main__content {
+    bottom: -25px;
+    gap: 57px;
+  }
+  .upgrade-main-content__text {
+    font-size: 16px;
+  }
+  .upgrade-main-content__text {
+    width: 165px;
+  }
+  .upgrade__choise {
+    flex-direction: column;
+  }
+  .upgrade-choise__left,
+  .upgrade-choise__right {
+    width: 100%;
+    max-height: 458px;
+    position: relative;
+    min-height: 458px;
+  }
+  .upgrade-choise-right__list--box,
+  .upgrade-choise__content {
+    height: 381px;
+    position: static;
+  }
+  .upgrade-choise__top {
+    padding: 28px 29px 28px;
+    font-size: 21px;
+  }
+  .upgrade-choise-right__list {
+    grid-template-columns: repeat(5, calc(20% - 15px));
+  }
+  .upgrade-choise-right__list--box::after {
+    height: 60px;
+  }
+  .quests-top__conditions,
+  .quests__countdown {
+    top: 140px;
+  }
+  .quests-players-list__item {
+    font-size: 19px;
+  }
+}
+
+@media screen and (max-width: 1200px) {
+  .top-list-item {
+    width: 140px;
+    height: 86px;
+  }
+  .case-list__items {
+    row-gap: 25px;
+    grid-template-columns: repeat(4, calc(25% - 17px));
+  }
+  .ds1li__item img {
+    width: 230px;
+  }
+  .drum-step-1-center__text img {
+    width: 300px;
+  }
+  .drum-step-1__center {
+    top: 55%;
+  }
+  .drum-content-word__letter {
+    font-size: 76px;
+    width: 120px;
+    height: 120px;
+  }
+  .top-list-item__content img {
+    max-width: 69px;
+  }
+  .top-list-item-content__text,
+  .top-list-item-hidden__text {
+    font-size: 11px;
+    margin-top: 9px;
+  }
+  .top-list-item-hidden__img img {
+    max-width: 54px;
+  }
+  .top-list-item-hidden__text {
+    margin-top: 3px;
+  }
+  .header-top {
+    padding: 16px 0px 20px;
+  }
+  .header-top__left {
+    gap: 30px;
+  }
+  .container {
+    padding: 0 15px;
+  }
+  .case__list {
+    grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
+  }
+  .htlo__left img {
+    width: 25px;
+  }
+  .htlo-right__num {
+    font-size: 17px;
+    margin-bottom: 4px;
+  }
+  .header-top-left-nav__list li a {
+    font-size: 15px;
+  }
+  .sign__btn {
+    padding: 8px 14px;
+    padding-bottom: 9px;
+    font-size: 18px;
+  }
+  .sign-btn__img img {
+    width: 92%;
+  }
+  .sign__btn {
+    gap: 10px;
+  }
+  .header-start__title img {
+    width: 717px;
+  }
+  .footer-info {
+    flex-wrap: wrap;
+  }
+  .footer-info__item {
+    width: 42%;
+    height: 110px;
+  }
+  .footer-info {
+    row-gap: 20px;
+    justify-content: space-around;
+  }
+  .footer-info__item::after {
+    width: 104%;
+    left: -2%;
+  }
+  .footer-content {
+    padding-top: 260px;
+    padding-bottom: 20px;
+  }
+  .footer-info-item-text__text {
+    width: unset;
+  }
+  .footer-man {
+    display: none;
+  }
+  .header-inner {
+    padding: 100px 0 50px;
+  }
+  .crash-top__title {
+    font-size: 31px;
+  }
+  .crash__top {
+    margin-bottom: 50px;
+  }
+  .crash-content__up {
+    height: 400px;
+  }
+  .ccu-x-up__text {
+    font-size: 47px;
+  }
+  .ccu_x {
+    margin-top: 80px;
+  }
+  .ccu__bet {
+    margin: 29px auto 0;
+  }
+  .ccl-list-top__item:first-child,
+  .ccl-list-players__avatar {
+    width: 50%;
+  }
+  .ccl-list-players__x,
+  .ccl-list-players__bet,
+  .ccl-list-players__win,
+  .ccl-list-top__item,
+  .ccl-list-players--other {
+    width: 16.66%;
+  }
+  .crash__images img:nth-child(2) {
+    top: 135px;
+  }
+  .crash__images img:nth-child(3) {
+    top: 215px;
+  }
+  .crash__images img:nth-child(1) {
+    position: absolute;
+    top: 204px;
+    left: 15px;
+  }
+  .psic-box {
+    padding: 45px;
+  }
+  .psic-list__item {
+    width: 364px;
+    height: 63px;
+  }
+  .psic__title {
+    font-size: 21px;
+    margin-bottom: 36px;
+  }
+  .psic-list {
+    gap: 16px;
+  }
+  .faq__title {
+    font-size: 22px;
+    margin-bottom: 40px;
+  }
+  .faq-list-item__top {
+    padding: 17px;
+    padding-right: 60px;
+  }
+  .faq-list-item-top__angle {
+    width: 53px;
+  }
+  .faq-list-item__bottom {
+    font-size: 15px;
+    line-height: 21px;
+  }
+  .preview__list {
+    padding: 0;
+  }
+  .plic__btn {
+    text-wrap: nowrap;
+  }
+  .preview__title {
+    margin-bottom: 45px;
+  }
+  .preview {
+    padding-bottom: 180px;
+  }
+  .preview-inner-top__title {
+    font-size: 21px;
+  }
+  .preview-inner-top__content {
+    padding: 30px 40px;
+    padding-right: 229px;
+  }
+  .preview-inner__info {
+    padding: 30px 40px;
+  }
+  .preview-inner-top__text {
+    margin-bottom: 30px;
+  }
+  .preview-inner-info__text {
+    font-size: 15px;
+    font-weight: 600;
+  }
+  .preview-inner {
+    padding-bottom: 80px;
+  }
+  .preview-inner__info {
+    gap: 30px;
+  }
+  .bonus__list .slick-track {
+    display: flex;
+  }
+  .slick-slide > div,
+  .slick-slide .bonus__item {
+    height: 100%;
+  }
+  .slick-slide .bonus__item {
+    display: flex !important;
+  }
+  .bonus__list {
+    position: relative;
+    padding: 0 40px;
+  }
+  .slick-list {
+    overflow: hidden;
+  }
+  .bonus__list .slick-arrow {
+    font-size: 0;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 30px;
+    transition: 250ms ease all;
+    height: 30px;
+    background: linear-gradient(to top, #c642a6, #f18d72);
+    border-radius: 30px;
+  }
+  .bonus__list .slick-arrow:hover {
+    transform: translateY(-50%) scale(1.1);
+    filter: brightness(1.1);
+  }
+  .bonus__list .slick-arrow::after {
+    content: "";
+    width: 10px;
+    height: 10px;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%) rotate(-90deg);
+    background-size: cover;
+    position: absolute;
+    background: url(../img/angle-down-upgrade.png) no-repeat center center;
+  }
+  .bonus__list .slick-arrow.slick-prev::after {
+    transform: translate(-50%, -50%) rotate(90deg);
+  }
+  .bonus__list .slick-arrow.slick-prev {
+    left: 0px;
+  }
+  .bonus__list .slick-arrow.slick-next {
+    right: 0;
+  }
+  .slick-slide > div {
+    padding: 0 20px;
+  }
+  .bonus-item__img {
+    right: 0;
+  }
+  .uml__img::after {
+    right: -102px;
+  }
+  .uml__img img {
+    width: 212px;
+  }
+  .upgrade-main__center img {
+    width: 530px;
+  }
+  .upgrade-main-content__img img {
+    width: 125px;
+  }
+  .upgrade-main__content {
+    bottom: -39px;
+    gap: 40px;
+  }
+  .upgrade-main__content {
+    max-width: 162px;
+  }
+  .quests-list__img img {
+    min-width: 1528px;
+  }
+  .quests-list__slider {
+    padding: 0 40px;
+  }
+  .qlsi__text {
+    line-height: 21px;
+  }
+  .quests-list-slider__item--box {
+    height: 100%;
+  }
+  .quests-list-slider-item__box {
+    position: relative;
+    z-index: 1;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  .ccu-top__item {
+    flex: 0 0 auto;
+  }
+  .rules__wrapper {
+    padding: 0 25px;
+    padding-bottom: 133px;
+  }
+  .drum-content-word__letter:first-child img {
+    width: 55px;
+  }
+  .drum-content-word__letter:nth-child(3) img {
+    width: 60px;
+  }
+  .drum-step-2__choise {
+    margin-top: 50px;
+    margin-bottom: 90px;
+  }
+  .drum-step-3 .drum-step-1__center {
+    top: 60%;
+  }
+  .contract-create__back img {
+    width: 911px;
+  }
+  .contract-create-content__top {
+    font-size: 14px;
+    margin-top: 33px;
+  }
+  .contract-create-content__count {
+    width: 713px;
+    margin: 20px auto 0;
+  }
+  .contract__create {
+    margin: -14px auto 55px;
+  }
+  .contract-create-content__list {
+    width: 713px;
+  }
+  .cccl-item__num {
+    margin-top: 5px;
+  }
+  .contract-create-content-count__back {
+    height: 22px;
+  }
+  .contract-create-content-count__num {
+    font-size: 14px;
+    left: 11px;
+  }
+  .contract__create .ccu-bet-params__btn {
+    width: 243px;
+    height: 47px;
+    font-size: 18px;
+    margin: 29px auto 0;
+  }
+  .contract-list__title {
+    font-size: 21px;
+  }
+  .contract-list--box {
+    grid-template-columns: repeat(5, calc(20% - 15px));
+  }
+  .contract-list-wrapper {
+    padding-top: 16px;
+  }
+  .tab-item__list {
+    grid-template-columns: repeat(5, calc(20% - 20px));
+  }
+  .tabs {
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    gap: 19px;
+  }
+  .cabinet__info {
+    flex-direction: column;
+    gap: 39px;
+  }
+  .cabinet-info__left {
+    width: 100%;
+  }
+  .cabinet-info__right {
+    width: 65%;
+    margin: 0 auto;
+  }
+  .tabs {
+    justify-content: center;
+  }
+  .wrapper-cabinet .other-pages__wrapper {
+    background-size: 2570px;
+  }
+  .cabinet {
+    padding-bottom: 153px;
+  }
+  .deposit__wrapper .deposit-item {
+    padding: 30px 30px;
+    padding-right: 50px;
+  }
+  .deposit-left-title__text {
+    font-size: 21px;
+  }
+  .deposit-left__title {
+    margin-bottom: 35px;
+  }
+  .deposit-left__list {
+    grid-template-columns: repeat(2, calc(50% - 7px));
+    row-gap: 12px;
+  }
+  .deposit-left__list {
+    max-height: 623px;
+    overflow: auto;
+  }
+  .deposit-left__min {
+    font-size: 15px;
+    margin-top: 15px;
+  }
+  .deposit-right__top,
+  .deposit-right__promo {
+    padding: 30px 25px;
+  }
+}
+@media screen and (max-width: 992px) {
+  .header-center {
+    flex-direction: row-reverse;
+    align-items: center;
+  }
+  .other-pages__wrapper.other-pages__wrapper--drum {
+    background-size: 1362px;
+  }
+  .drum-step-1-list__item:nth-child(1) {
+    gap: 20px;
+  }
+  .drum-step-1-list__item:nth-child(2) {
+    gap: 300px;
+  }
+  .drum-step-1-list__item:nth-child(3) {
+    gap: 215px;
+  }
+  .drum-step-1-center__text img {
+    width: 240px;
+  }
+  .drum-step-1__center .ccu-bet-params__btn {
+    width: 211px;
+    height: 65px;
+    font-size: 14px;
+  }
+  .drum-step-1__center .sign-btn__text {
+    font-size: 23px;
+  }
+  .drum-step-1__center {
+    top: 51%;
+  }
+  .ds1li__item img {
+    width: 210px;
+  }
+  .header__burger span {
+    width: 100%;
+    height: 2px;
+    display: block;
+    background: #fff;
+    position: relative;
+    transition: 250ms ease all;
+  }
+  .header__burger {
+    width: 30px;
+    cursor: pointer;
+    height: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  .drum-content-word__letter {
+    font-size: 63px;
+    width: 110px;
+    height: 110px;
+  }
+  .drum-content__list {
+    grid-template-columns: repeat(3, calc(33.3% - 20px));
+  }
+  .drum-content__text {
+    padding: 0 20px;
+  }
+  .header-center-list {
+    gap: 13px;
+    position: absolute;
+    right: 0;
+    visibility: hidden;
+    opacity: 0;
+    top: 83px;
+    background: #1c225e9c;
+    backdrop-filter: blur(6px);
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    transition: 250ms ease all;
+    padding: 13px;
+    transform: translateY(-10px);
+    border-radius: 0 0 15px 15px;
+    border: 1px solid #edfaff17;
+  }
+  .header-center-list__item {
+    width: 30%;
+    border: 1px solid transparent;
+    letter-spacing: 0.5px;
+    transition: 250ms ease all;
+  }
+  .header-center {
+    z-index: 10;
+  }
+
+  .header-center-list__item:hover {
+    background: rgb(255 255 255 / 3%);
+    border: 1px solid #ffffff87;
+    box-shadow: 0 0 3px 0 inset #ffffff3b;
+  }
+  .header__burger.active span:nth-child(1) {
+    transform: rotate(45deg);
+    top: 9px;
+  }
+  .header__burger.active span:nth-child(2) {
+    opacity: 0;
+  }
+  .header__burger.active span:nth-child(3) {
+    transform: rotate(-45deg);
+    top: -9px;
+  }
+  .header-center-list.active {
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(0);
+  }
+  .header-top__right {
+    gap: 22px;
+  }
+  .header-center__back img {
+    height: 109px;
+  }
+  .header-top__left {
+    gap: 0px;
+    width: 100%;
+    justify-content: space-between;
+  }
+  .header-start__title img {
+    width: 579px;
+  }
+  .header-start-btn__content {
+    font-size: 20px;
+  }
+  header {
+    padding: 92px 0 191px;
+  }
+  .section-top-content__title {
+    font-size: 24px;
+  }
+  .section-top-content__subtitle {
+    font-size: 16px;
+  }
+  .section-top img {
+    min-width: 1467px;
+  }
+  .section-top {
+    top: -136px;
+  }
+  .section-top__content {
+    top: 94px;
+  }
+  .case__list {
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  }
+  .case-list-item__name {
+    font-size: 16px;
+  }
+  .case-list-item-btn__price {
+    font-size: 17px;
+  }
+  .case-list-item-btn__back img {
+    width: 91px;
+  }
+  .cases-list {
+    padding: 78px 0 98px;
+  }
+  .cases-list.hero-packages {
+    padding-bottom: 108px;
+  }
+  .footer-info-item-text__num {
+    font-size: 24px;
+    line-height: 24px;
+  }
+  .footer-info-item__icon img {
+    width: 48px;
+  }
+  .footer-info__item:nth-child(3) .footer-info-item__icon img {
+    width: 38px;
+  }
+  .header-top__right {
+    display: none;
+  }
+  .header-center-list .header-top__right {
+    display: flex;
+  }
+  .header-top__right {
+    position: static;
+    width: 100%;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  .faq-list-item__bottom {
+    padding-right: 0;
+  }
+  .ccu-bet-params__top {
+    background: linear-gradient(to bottom, #4a8bf2, #3d3492);
+    border-radius: 20px;
+  }
+  .ccu-bet-params__bottom {
+    background: linear-gradient(to bottom, #1d1e61, #383088);
+    width: 167px;
+    height: 48px;
+    border-radius: 0 0 20px 20px;
+    margin: 0 auto;
+  }
+  .ccu-bet__back {
+    display: none;
+  }
+  .ccu-bet-params__top {
+    height: fit-content;
+    padding: 15px 25px;
+  }
+  .ccu-bet-params__top--center {
+    justify-content: center;
+    display: flex;
+  }
+  .drum-step-2 .ccu-bet-params__top--center {
+    width: fit-content;
+  }
+  .ccu-bet-params__minus,
+  .ccu-bet-params__plus {
+    width: 30px;
+    height: 30px;
+  }
+  .ccu-bet-params__plus img,
+  .ccu-bet-params__minus img {
+    width: 13px;
+  }
+  .ccu-bet-params__sum,
+  .ccu-bet-params__x {
+    font-size: 20px;
+  }
+  .ccu__bet {
+    width: 100%;
+  }
+  .ccu-bet__params {
+    position: relative;
+  }
+  .ccu-bet-params__top--left {
+    width: 28%;
+  }
+  .ccu-bet-params__btn {
+    width: 204px;
+    height: 49px;
+    font-size: 17px;
+  }
+  .crash__images img:nth-child(3),
+  .crash__images img:nth-child(1) {
+    display: none;
+  }
+  .crash-top__title img {
+    display: none;
+  }
+  .crash__top {
+    margin-bottom: 40px;
+  }
+  .ccu__top {
+    gap: 5px;
+  }
+  .ccu-top__item {
+    font-size: 13px;
+  }
+  .ccu-x-up__text {
+    font-size: 40px;
+  }
+  .ccu-x-up__back img {
+    width: 200px;
+  }
+  .ccu-x__text {
+    left: -21px;
+    font-size: 18px;
+  }
+  .ccu__bet {
+    top: 62px;
+  }
+  .ccl-info-item__back {
+    width: 185px;
+  }
+  .crash__content {
+    gap: 110px;
+  }
+  .ccl__list {
+    width: 90%;
+    margin: 0 auto;
+  }
+  .crash__images img:nth-child(2) {
+    right: 100px;
+  }
+
+  .preview__list {
+    grid-template-columns: repeat(2, calc(50% - 25px));
+    justify-content: space-around;
+    gap: 0;
+    row-gap: 50px;
+  }
+  .upgrade-choise-right__list {
+    grid-template-columns: repeat(4, calc(25% - 12px));
+    row-gap: 16px;
+  }
+  .upgrade__main {
+    flex-wrap: wrap;
+  }
+  .upgrade-main__center {
+    margin: 0 auto;
+    margin-top: 55px;
+  }
+  .upgrade-main__left,
+  .upgrade-main__right {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+  }
+  .uml__img img {
+    width: 290px;
+  }
+  .upgrade-main-content__img img {
+    width: 167px;
+  }
+  .upgrade-main__content {
+    max-width: 215px;
+  }
+  .rules__title {
+    font-size: 23px;
+    margin-bottom: 50px;
+  }
+  .rules__wrapper p {
+    margin-bottom: 25px;
+  }
+  .drum-content-word__letter:first-child img {
+    width: 48px;
+  }
+  .drum-content-word__letter:nth-child(3) img {
+    width: 50px;
+  }
+  .drum-step-2__img img {
+    width: 323px;
+  }
+  .drum-step-2-choise__text {
+    margin-bottom: 20px;
+  }
+  .contract-create__back {
+    background: #262b77;
+    border-radius: 20px;
+    height: 207px;
+    width: 100%;
+  }
+  .contract-create-content__count,
+  .contract-create-content__list {
+    width: 90%;
+  }
+  .contract-list--box {
+    grid-template-columns: repeat(4, calc(25% - 15px));
+  }
+  .other-pages__wrapper--contract {
+    margin-bottom: -233px;
+  }
+  .contract-create-content__count {
+    background: #323ca3;
+    padding: 5px;
+    border-radius: 31px;
+  }
+  .contract-create-content-count__num {
+    left: 20px;
+  }
+  .cccl__item::after {
+    display: none;
+  }
+  .contract-create__content .ccu-bet-params__top--center {
+    width: unset;
+  }
+  .contract-create__content .ccu-bet-params__top--center {
+    top: 5px;
+  }
+  .contract-list__title {
+    font-size: 19px;
+    padding: 15px 24px;
+  }
+  .contract-create-content-count__back {
+    height: 30px;
+  }
+  .contract-create__back img {
+    display: none;
+  }
+  .contract__create {
+    width: 100%;
+  }
+  .cabinet-info__left {
+    gap: 20px;
+  }
+  .cil__bottom .ccu-bet-params__btn {
+    font-size: 18px;
+    width: 169px;
+    height: 54px;
+  }
+  .cil-bottom-left__balance,
+  .cil-bottom-left__gems {
+    font-size: 21px;
+  }
+  .cabinet-info__right {
+    width: fit-content;
+  }
+  .tab {
+    font-size: 15px;
+    padding: 16px 17px;
+  }
+  .tab-item__list {
+    grid-template-columns: repeat(4, calc(25% - 11px));
+  }
+  .deposit__wrapper {
+    flex-direction: column;
+  }
+  .deposit__wrapper .deposit-item {
+    width: 100%;
+  }
+  .deposit-left__list {
+    grid-template-columns: repeat(4, calc(25% - 9px));
+    row-gap: 12px;
+  }
+  .deposit-left__list {
+    max-height: 205px;
+  }
+  .deposit__wrapper .deposit-item:nth-child(2) {
+    width: 100%;
+    position: static;
+    margin-top: 23px;
+  }
+  .deposit-right__promo .ccu-bet-params__bottom {
+    width: 100%;
+    height: fit-content;
+    background: transparent;
+    border-radius: 0;
+  }
+  .deposit__wrapper .deposit-item {
+    padding-right: 30px;
+    border-radius: 20px;
+  }
+  .deposit__wrapper .deposit-item:nth-child(1) {
+    border-radius: 20px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .header-center-list__item {
+    width: 47%;
+  }
+  .contract-list--box {
+    grid-template-columns: repeat(3, calc(33.3% - 15px));
+  }
+  .drum-step-2__choise {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 80px;
+    margin-bottom: 65px;
+  }
+  .drum-step-2-choise__markable {
+    min-width: unset;
+  }
+  .drum-content-word__letter img {
+    top: 4px;
+  }
+  .drum-content-word__letter:first-child img {
+    width: 30px;
+  }
+  .drum-content-word__letter:nth-child(3) img {
+    width: 33px;
+  }
+  .ds1li__item img {
+    width: 130px;
+  }
+  .drum-step-1-center__text img {
+    width: 160px;
+  }
+  .drum-step-1-list__item:nth-child(1) {
+    margin-bottom: 50px;
+    gap: 30px;
+  }
+  .drum-step-1-list__item:nth-child(2) {
+    gap: 247px;
+    margin-bottom: 20px;
+  }
+  .drum-step-1-list__item:nth-child(3) {
+    gap: 142px;
+  }
+  .drum-step-1-list__item:nth-child(4) {
+    margin-top: -70px;
+  }
+  .drum-step-1__center .ccu-bet-params__btn {
+    width: 158px;
+    height: 54px;
+  }
+  .drum-step-1__center .sign-btn__text {
+    font-size: 17px;
+  }
+  .drum-step-1__center .sign-btn__text .sbtl {
+    top: 3px;
+  }
+  .drum-content-word__letter {
+    font-size: 40px;
+    width: 80px;
+    height: 80px;
+  }
+  .drum-content__word {
+    margin: 35px 0 40px;
+  }
+  .drum-content__text {
+    font-size: 16px;
+    margin-bottom: 40px;
+  }
+  .drum-content-list-item__img img {
+    width: 150px;
+  }
+  .drum-content__list {
+    grid-template-columns: repeat(2, calc(50% - 10px));
+  }
+  .header-center__back {
+    display: none;
+  }
+  .header-center {
+    z-index: 10;
+    background: #242972cc;
+    border-radius: 9px;
+    height: fit-content;
+    padding: 12px 23px;
+    padding-left: 15px;
+  }
+
+  .header-center-list {
+    top: 99%;
+  }
+  .header-center.active {
+    border-radius: 9px 9px 0 0;
+  }
+  .header-center-list {
+    border-radius: 0 0 9px 9px;
+  }
+  .footer-info__item {
+    width: 100%;
+    height: 75px;
+  }
+  .footer-content {
+    padding-top: 382px;
+  }
+  .footer-content__main {
+    flex-wrap: wrap;
+  }
+  .fcm__right {
+    gap: 0;
+    width: 100%;
+    justify-content: space-between;
+    margin-top: 37px;
+  }
+  .footer__copy {
+    flex-direction: column;
+    gap: 17px;
+    padding: 23px;
+    border-radius: 15px;
+  }
+  .footer-content {
+    padding-bottom: 30px;
+  }
+  .header-top__right {
+    opacity: 0;
+    transition: 250ms ease all;
+  }
+  .header-top__right.active {
+    opacity: 1;
+  }
+  .footer-info-item__icon img {
+    width: 41px;
+  }
+  .footer-info-item-text__num {
+    font-size: 22px;
+    line-height: 13px;
+  }
+  .footer-info-item-text__text {
+    font-size: 15px;
+  }
+  .sign-btn__img {
+    display: flex;
+  }
+  .sign-btn__img {
+    flex: 0 0 auto;
+  }
+  .ccu-x-up__back img {
+    width: 173px;
+  }
+  .ccu-x-up__text {
+    font-size: 28px;
+  }
+  .ccu-x__text {
+    left: -7px;
+  }
+  .crash-content__up {
+    height: 322px;
+  }
+  .ccu_x {
+    margin-top: 65px;
+  }
+  .ccu-bet-params__top--left {
+    width: 50%;
+  }
+  .ccu-bet-params__top {
+    flex-wrap: wrap;
+  }
+  .ccu-bet-params__top {
+    row-gap: 18px;
+    padding: 25px;
+  }
+  .ccu__bet {
+    margin: 0px auto 0;
+  }
+  .crash__content {
+    gap: 200px;
+  }
+  .crash {
+    margin-bottom: -50px;
+  }
+  .crash__images img:nth-child(2) {
+    display: none;
+  }
+  .ccl__list {
+    width: 100%;
+  }
+  .ccu-bet-params__top--center {
+    width: 43%;
+  }
+  .ccu-bet-params__top {
+    justify-content: space-around;
+  }
+  .ccu-bet-params__top--left {
+    width: 38%;
+  }
+  .preview {
+    padding-bottom: 250px;
+  }
+  .preview-inner-top__content,
+  .preview-inner__info {
+    padding: 20px 30px;
+  }
+  .preview-inner-top__title {
+    font-size: 20px;
+  }
+  .preview-inner-top__text {
+    font-size: 15px;
+  }
+  .preview-inner-top__text {
+    margin-bottom: 20px;
+  }
+  .preview-inner-info__text {
+    line-height: 23px;
+  }
+  .preview-inner {
+    padding-bottom: 100px;
+  }
+  .uml__img img {
+    width: 228px;
+  }
+  .uml__img img {
+    width: 200px;
+  }
+  .upgrade-main-content__img img {
+    width: 150px;
+  }
+  .upgrade-main__content {
+    max-width: 182px;
+  }
+  .upgrade-main-content__text {
+    font-size: 15px;
+  }
+  .upgrade-main__center img {
+    width: 472px;
+  }
+  .umct__left {
+    top: 20px;
+    left: 9px;
+  }
+  .umct__right {
+    right: 9px;
+    top: 20px;
+  }
+  .upgrade-main__center {
+    margin-top: 70px;
+  }
+  .upgrade-choise-right__list {
+    grid-template-columns: repeat(3, calc(33.3% - 12px));
+  }
+  .upgrade-choise__top {
+    padding: 22px 24px 24px;
+    font-size: 18px;
+  }
+  .ucco__back {
+    display: none;
+  }
+  .upgrade-choise__left,
+  .upgrade-choise__right {
+    max-height: 376px;
+    min-height: 376px;
+  }
+  .upgrade-choise-right__list--box,
+  .upgrade-choise__content {
+    height: 310px;
+  }
+  .ucco-btn__text {
+    font-size: 17px;
+  }
+  .ucco-btn__back img {
+    width: 280px;
+  }
+  .ucco__text {
+    font-size: 16px;
+  }
+  .upgrade-choise-right-list__item {
+    padding: 12px;
+  }
+  .uml__img::after {
+    right: -109px;
+  }
+  .ccu-bet-params__top--center + .ccu-bet-params__top--left {
+    width: 200px;
+    justify-content: flex-start;
+    gap: 40px;
+  }
+  .ccu-bet-params__top--left {
+    width: 200px;
+  }
+  .ccu-bet-params__top--center {
+    position: relative;
+    top: 25px;
+  }
+  .ccu-bet-params__top {
+    justify-content: space-between;
+    padding: 25px 50px;
+  }
+  .quests-players-list__box {
+    width: 720px;
+  }
+  .quests-players__list {
+    overflow: auto;
+  }
+  .other-pages__wrapper {
+    background: #323ca3;
+  }
+  .preview-inner__info {
+    padding: 30px;
+    background: #22225e;
+  }
+  .other-pages__wrapper--upgrade {
+    background: url(../img/upgrade-background.png) no-repeat center center;
+    background-size: cover;
+  }
+  .drum-step-1__center #countdown {
+    margin: 0;
+    margin-top: 10px;
+  }
+  .drum-step-3 .ccu-bet-params__top--center {
+    width: 50%;
+  }
+  .drum-step-3 .drum-step-1__center .ccu-bet-params__btn {
+    height: 68px;
+  }
+  .drum-step-3 .drum-step-1-list__item:nth-child(1) {
+    gap: 120px;
+  }
+  .drum-step-3 .drum-step-1-list__item:nth-child(2) {
+    gap: 400px;
+  }
+  .drum-step-3 .drum-step-1-list__item:nth-child(3) {
+    gap: 249px;
+  }
+  .drum-step-3 .drum-step-1-list__item:nth-child(4) {
+    margin-top: -55px;
+  }
+  .drum-step-3 .drum-step-3 .drum-step-1__center {
+    top: 58%;
+  }
+  .drum-step-3-center--box__code input {
+    margin-bottom: -5px;
+
+    width: 244px;
+    height: 60px;
+    font-size: 20px;
+  }
+  .wp-content__input {
+    width: 100%;
+  }
+  .contract-create-content__top {
+    padding: 0 20px;
+    text-align: center;
+    line-height: 21px;
+  }
+  .deposit-left__list {
+    grid-template-columns: repeat(3, calc(33.3% - 9px));
+  }
+  .deposit__pay {
+    font-size: 18px;
+    height: 58px;
+  }
+  .deposit-right__top,
+  .deposit-right__promo {
+    margin-bottom: 30px;
+  }
+  .deposit-right__promo input,
+  .deposit-right__amount input {
+    height: 50px;
+    font-size: 15px;
+  }
+  .deposit-right-promo-enter__btn {
+    font-size: 13px;
+  }
+}
+@media screen and (max-width: 620px) {
+  .upgrade-main__left {
+    right: -5px;
+  }
+  .upgrade-main__right {
+    left: -5px;
+  }
+}
+@media screen and (max-width: 576px) {
+  .top-list-item {
+    width: 105px;
+    height: 64px;
+  }
+  .tab-item__list {
+    grid-template-columns: repeat(2, calc(50% - 11px));
+  }
+  .contract-list--box {
+    grid-template-columns: repeat(2, calc(50% - 15px));
+  }
+  .contract-list-wrapper {
+    border-radius: 0;
+    padding: 0;
+  }
+  .contract-list__title {
+    font-size: 19px;
+    text-align: center;
+  }
+  .preview__list {
+    grid-template-columns: repeat(1, 100%);
+  }
+  .top-list-item__content img {
+    max-width: 56px;
+  }
+  .cil__other {
+    gap: 20px;
+  }
+  .cabinet-info__right {
+    flex-wrap: wrap;
+  }
+  .cir__best,
+  .cir__favorite {
+    width: 100%;
+  }
+  .cir-favorite__content {
+    gap: 36px;
+  }
+  .cabinet-info__left {
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+  }
+  .top-list-item-content__text,
+  .top-list-item-hidden__text {
+    font-size: 10px;
+    margin-top: 7px;
+  }
+  .top-list-item-hidden__img img {
+    max-width: 45px;
+  }
+  .top-list-item-hidden__text {
+    margin-top: 2px;
+  }
+  .header-top__left {
+    gap: 14px;
+
+    flex-direction: column;
+  }
+  .header-top-left-nav__list li a {
+    font-size: 14px;
+  }
+  .hcsi__back img {
+    width: 40px;
+  }
+  .hcsi__icon img {
+    width: 14px;
+  }
+  .header-center-list__item {
+    width: 100%;
+  }
+
+  .header-start__title img {
+    width: 275px;
+  }
+  .header-start-btn__content {
+    font-size: 16px;
+    padding: 13px 24px;
+  }
+  .header-start__title {
+    margin-top: 44px;
+  }
+  header {
+    padding: 83px 0 107px;
+  }
+  .section-top img {
+    display: none;
+  }
+  .section-top__content {
+    top: 164px;
+  }
+  .cases-list {
+    padding: 114px 0 68px;
+  }
+  .case__list {
+    grid-template-columns: repeat(auto-fit, minmax(126px, 1fr));
+  }
+  .section-top-content__title {
+    font-size: 21px;
+  }
+  .section-top-content__subtitle {
+    font-size: 15px;
+  }
+  .footer-info {
+    row-gap: 20px;
+    justify-content: space-around;
+    width: 90%;
+    left: 5%;
+  }
+  .fcm__right {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    gap: 20px;
+  }
+  .unsimple__copyright {
+    text-align: center;
+  }
+  .fcm-right-info__logo {
+    margin: 0;
+    margin-top: 10px;
+    text-align: center;
+    width: 100%;
+    display: block;
+  }
+  .footer__copy {
+    margin-top: 30px;
+  }
+  .footer-content {
+    padding-bottom: 15px;
+  }
+  .footer-copy__left {
+    max-width: 100%;
+    text-align: center;
+  }
+  .footer-content__main {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+  .top-shadow {
+    height: 100px;
+  }
+  .psic-box {
+    padding: 35px;
+    width: 85%;
+  }
+  .psic-list__item {
+    width: 100%;
+    height: 60px;
+  }
+  .psic-list-item__box {
+    justify-content: center;
+    padding-left: 0;
+  }
+  .crash-top__title {
+    font-size: 25px;
+  }
+  .crash-top__back {
+    font-size: 15px;
+    line-height: 15px;
+    padding: 12px 13px;
+    border-radius: 10px;
+  }
+  .crash-top__more {
+    width: 44px;
+    height: 39px;
+  }
+  .crash-top__more img {
+    width: 54%;
+  }
+  .crash__content {
+    gap: 250px;
+  }
+  .ccl-info-item__back {
+    width: 165px;
+  }
+  .ccu-bet-params__top--center {
+    width: 100%;
+  }
+  .ccu-bet-params__top--left {
+    width: 100%;
+    justify-content: center;
+    gap: 38px;
+  }
+  .faq__title {
+    font-size: 19px;
+    margin-bottom: 30px;
+  }
+  .preview-list-item__box {
+    width: 100%;
+  }
+  .plic__btn {
+    font-size: 16px;
+  }
+  .preview__title {
+    font-size: 22px;
+    line-height: 28px;
+  }
+  .bonus-item__img {
+    display: none;
+  }
+  .bonus__item {
+    padding: 25px;
+    padding-top: 30px;
+    text-align: center;
+  }
+  .bonus-item__btn {
+    margin: 0 auto;
+  }
+  .bonus__list .slick-arrow {
+    transform: unset;
+    bottom: -64px;
+    top: unset;
+  }
+  .bonus__list .slick-arrow.slick-prev {
+    left: 40%;
+    transform: translateX(-50%);
+  }
+  .bonus__list .slick-arrow.slick-next {
+    right: 40%;
+    transform: translateX(-40%);
+  }
+  .slick-slide > div,
+  .bonus__list {
+    padding: 0;
+  }
+  .bonus-item__title,
+  .bonus-item__text {
+    margin-bottom: 20px;
+  }
+  .crash-top__title {
+    text-align: center;
+  }
+  .crash-top__back {
+    text-wrap: nowrap;
+  }
+  .bonus {
+    margin-bottom: -50px;
+  }
+  .upgrade-choise-right__list {
+    grid-template-columns: repeat(2, calc(50% - 12px));
+  }
+  .upgrade-main__center img {
+    width: 100%;
+  }
+  .ccu-bet-params__top--center + .ccu-bet-params__top--left {
+    width: 100%;
+    justify-content: center;
+    gap: 40px;
+  }
+  .ccu-bet-params__top--center {
+    position: static;
+  }
+  .quests__countdown {
+    top: 263px;
+  }
+  .quests-top__conditions {
+    top: 150px;
+  }
+  .rules__title {
+    line-height: 26px;
+  }
+  .deposit-left__list {
+    grid-template-columns: repeat(2, calc(50% - 9px));
+  }
+  .deposit-left-title__text {
+    font-size: 19px;
+  }
+  .deposit-right__top {
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    gap: 30px;
+  }
+  .deposit-right-promo-enter__btn {
+    font-size: 13px;
+    position: static;
+    width: 100%;
+    height: 35px;
+    transform: unset;
+    margin-top: 10px;
+  }
+  .deposit-right__promo input,
+  .deposit-right__amount input {
+    padding: 0 25px;
+    text-align: center;
+  }
+}
+@media screen and (max-width: 500px) {
+  .upgrade-main-center__content {
+    bottom: 141px;
+  }
+}
